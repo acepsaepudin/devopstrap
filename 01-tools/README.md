@@ -20,6 +20,8 @@
 - [NodeJS](https://github.com/nvm-sh/nvm)
 - [nerd-fonts](https://github.com/ryanoasis/nerd-fonts#option-4-homebrew-fonts)
 - [Styling](https://medium.com/prodhacker/how-to-set-up-neovim-0-5-modern-plugins-lsp-treesitter-etc-542c3d9c9887)
+- [tmux](https://dev.to/andrenbrandao/terminal-setup-with-zsh-tmux-dracula-theme-48lm)
+- https://draculatheme.com/tmux
 
 
 ## Optional
