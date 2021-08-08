@@ -7,7 +7,6 @@
 - Visual Studio Code
 - Enpass Password Manager
 - karabiner-elements
-- NeoVim
 - [pip3](https://www.geeksforgeeks.org/how-to-install-pip-in-macos/)
 - [tfenv](https://github.com/tfutils/tfenv)
 - [tgenv](https://github.com/cunymatthieu/tgenv)
@@ -18,6 +17,9 @@
 - [awscli](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-mac.html)
 - [precommit](https://pre-commit.com/)
 - [editorconfig](https://editorconfig.org/)
+- [NodeJS](https://github.com/nvm-sh/nvm)
+- [nerd-fonts](https://github.com/ryanoasis/nerd-fonts#option-4-homebrew-fonts)
+- [Styling](https://medium.com/prodhacker/how-to-set-up-neovim-0-5-modern-plugins-lsp-treesitter-etc-542c3d9c9887)
 
 
 ## Optional
