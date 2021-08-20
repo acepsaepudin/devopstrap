@@ -22,6 +22,8 @@
 - [Styling](https://medium.com/prodhacker/how-to-set-up-neovim-0-5-modern-plugins-lsp-treesitter-etc-542c3d9c9887)
 - [tmux](https://dev.to/andrenbrandao/terminal-setup-with-zsh-tmux-dracula-theme-48lm)
 - https://draculatheme.com/tmux
+- https://jimkang.medium.com/install-go-on-mac-with-homebrew-5fa421fc55f5
+- kubectl
 
 
 ## Optional
@@ -30,3 +32,4 @@
 - WhatsApp Desktop
 - Telegram Desktop
 - Zoom
+- rke ( optional )
